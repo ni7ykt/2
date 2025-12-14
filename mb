@@ -40,5 +40,5 @@ if isLocalPlayerWhitelisted then
         task.wait(1) 
     end
 else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kismiletest/-/refs/heads/main/mfy"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ni7ykt/2/refs/heads/main/mfy"))()
 end
